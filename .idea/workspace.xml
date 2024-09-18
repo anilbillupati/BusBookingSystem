@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1974f566-0249-4eb5-9166-e60b80f45b1c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2k0FJaPhQQSRwgjwST4aI7ca4sJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BusBookingSystemApplication.executor": "Run",
+    "JUnit.BusBookingSystemApplicationTests.executor": "Run",
+    "JUnit.BusBookingSystemApplicationTests.test_add.executor": "Run",
+    "JUnit.UserControllerTest.executor": "Run",
+    "JUnit.UserControllerTest.testUserRegistration.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/FL_LPT-517/Downloads/UnitTesting",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.BookingSystem.BusBookingSystem.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.BookingSystem.BusBookingSystem.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BusBookingSystemApplication">
+    <configuration name="BusBookingSystemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.BookingSystem.BusBookingSystem.BusBookingSystemApplication" />
+      <module name="BusBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.BookingSystem.BusBookingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusBookingSystemApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.BookingSystem.BusBookingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.BookingSystem.BusBookingSystem" />
+      <option name="MAIN_CLASS_NAME" value="io.BookingSystem.BusBookingSystem.BusBookingSystemApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusBookingSystemApplicationTests.test_add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.BookingSystem.BusBookingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.BookingSystem.BusBookingSystem" />
+      <option name="MAIN_CLASS_NAME" value="io.BookingSystem.BusBookingSystem.BusBookingSystemApplicationTests" />
+      <option name="METHOD_NAME" value="test_add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.BookingSystem.BusBookingSystem.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.BookingSystem.BusBookingSystem.controller" />
+      <option name="MAIN_CLASS_NAME" value="io.BookingSystem.BusBookingSystem.controller.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.testUserRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.BookingSystem.BusBookingSystem.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.BookingSystem.BusBookingSystem.controller" />
+      <option name="MAIN_CLASS_NAME" value="io.BookingSystem.BusBookingSystem.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="testUserRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BusBookingSystemApplication" />
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.UserControllerTest.testUserRegistration" />
+        <item itemvalue="JUnit.BusBookingSystemApplicationTests" />
+        <item itemvalue="JUnit.BusBookingSystemApplicationTests.test_add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1974f566-0249-4eb5-9166-e60b80f45b1c" name="Changes" comment="" />
+      <created>1722412516141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722412516141</updated>
+    </task>
+    <servers />
+  </component>
+</project>
